@@ -1,0 +1,21 @@
+.fundo{
+    background-color: rgb(4, 11, 82);
+    color: white;
+    width: 350px;
+    padding: 8px;  
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    padding: 3px;
+}
+.botoes{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 8px;
+}
+.salvar{
+    padding-bottom: 15px;
+}
